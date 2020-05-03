@@ -20,10 +20,10 @@
 ## Skill
 * 논리적인 분석
   - 시장분석을 통한 컨설팅 경험
-전략캔버스
-![image](https://user-images.githubusercontent.com/64477858/80915090-c8145380-8d8a-11ea-8b4a-36c1955c9a87.png)스 모델, STP & 4P
-  
-STP
+    전략캔버스 모델
+![image](https://user-images.githubusercontent.com/64477858/80915090-c8145380-8d8a-11ea-8b4a-36c1955c9a87.png)
+
+    STP
 ![image](https://user-images.githubusercontent.com/64477858/80915118-f8f48880-8d8a-11ea-9590-991179ac5774.png)
   
   
