@@ -1,5 +1,5 @@
-# Blog Post
-## My first Blog Post
-* Post1
+# 포트폴리오
+## 소개
+* 이름: 김태훈
 * Post2
 * Post3
