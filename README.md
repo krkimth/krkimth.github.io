@@ -19,8 +19,8 @@
 
 ## Skill
 #### 논리적인 분석
-* 시장분석을 통해 중소 화장품 기업의 중국진출 컨설팅 경험
-  - 전략캔버스 모델
+* 산학협력단 소속으로 시장분석을 통해 중소 화장품 기업의 중국진출 컨설팅 경험
+  - 전략캔버스 모델 활용
   
 ![image](https://user-images.githubusercontent.com/64477858/80915090-c8145380-8d8a-11ea-8b4a-36c1955c9a87.png)
   
@@ -36,6 +36,6 @@
 ![슬라이드6](https://user-images.githubusercontent.com/64477858/80914886-83d48380-8d89-11ea-8565-8b75d759a066.JPG)
   
 #### 원활한 커뮤니케이션
-* 컨설팅 피드백으로 실제 사용할 수 있는 캐치프레이즈 제작 요청에 따라 작성
+* 컨설팅 피드백으로 실제 사용할 수 있는 캐치프레이즈 제작 요청에 따라 작성, 성공적인 컨설팅 제공
   - Eco-slow, Eco-Beauty 캐치프레이즈 포장 사용
 ![image](https://user-images.githubusercontent.com/64477858/80915235-f8102680-8d8b-11ea-9b28-d1e58f8d9f2e.png) 
