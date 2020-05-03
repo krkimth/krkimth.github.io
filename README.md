@@ -19,7 +19,14 @@
 
 ## Skill
 * 논리적인 분석
-  - 시장분석을 통한 컨설팅 경험: 전략 캔버스 모델, STP & 4P
+  - 시장분석을 통한 컨설팅 경험
+전략캔버스
+![image](https://user-images.githubusercontent.com/64477858/80915090-c8145380-8d8a-11ea-8b4a-36c1955c9a87.png)스 모델, STP & 4P
+  
+STP
+![image](https://user-images.githubusercontent.com/64477858/80915118-f8f48880-8d8a-11ea-9590-991179ac5774.png)
+  
+  
   - 데이터를 통한 논문 작성 경험: 설문조사와 피시바인 모델 분석
 ![슬라이드1](https://user-images.githubusercontent.com/64477858/80914880-7a4b1b80-8d89-11ea-85f9-3e7ce653fa63.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/64477858/80914882-7ddea280-8d89-11ea-91fb-29b635dda268.JPG)
@@ -30,5 +37,8 @@
   
 * 원활한 커뮤니케이션
   - 화인 코리아의 요청에 따라 캐치프레이즈 제공
+![image](https://user-images.githubusercontent.com/64477858/80915139-23464600-8d8b-11ea-85e9-8d0e188ac166.png)
+![image](https://user-images.githubusercontent.com/64477858/80915235-f8102680-8d8b-11ea-9b28-d1e58f8d9f2e.png)  
+
   - 홍콩에서의 매출 상승 경험: 사진
   
