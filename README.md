@@ -20,8 +20,13 @@
 ## Skill
 * 논리적인 분석
   - 시장분석을 통한 컨설팅 경험: 전략 캔버스 모델, STP & 4P
-  [카카오_수정.pdf](https://github.com/krkimth/krkimth.github.io/files/4570262/_.pdf)
   - 데이터를 통한 논문 작성 경험: 설문조사와 피시바인 모델 분석
+![슬라이드1](https://user-images.githubusercontent.com/64477858/80914880-7a4b1b80-8d89-11ea-85f9-3e7ce653fa63.JPG)
+![슬라이드2](https://user-images.githubusercontent.com/64477858/80914882-7ddea280-8d89-11ea-91fb-29b635dda268.JPG)
+![슬라이드3](https://user-images.githubusercontent.com/64477858/80914883-81722980-8d89-11ea-8bca-7abc256b56de.JPG)
+![슬라이드4](https://user-images.githubusercontent.com/64477858/80914884-820ac000-8d89-11ea-8cf7-d1d103d15f8c.JPG)
+![슬라이드5](https://user-images.githubusercontent.com/64477858/80914885-833bed00-8d89-11ea-97e1-683752b1e233.JPG)
+![슬라이드6](https://user-images.githubusercontent.com/64477858/80914886-83d48380-8d89-11ea-8565-8b75d759a066.JPG)
   
 * 원활한 커뮤니케이션
   - 화인 코리아의 요청에 따라 캐치프레이즈 제공
