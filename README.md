@@ -26,7 +26,8 @@
   
 * 데이터를 통한 논문 작성 경험
   - 데이터를 기반으로 피시바인 모델 분석하여 중소기업의 해외진출 전략 논문 작성
-    제16회 대학(원)생 무역논문대회 장려상 수상
+  
+    + 제16회 대학(원)생 무역논문대회 장려상 수상
    
 ![슬라이드1](https://user-images.githubusercontent.com/64477858/80914880-7a4b1b80-8d89-11ea-85f9-3e7ce653fa63.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/64477858/80914882-7ddea280-8d89-11ea-91fb-29b635dda268.JPG)
