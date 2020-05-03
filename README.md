@@ -26,7 +26,7 @@
   
 * 데이터를 통한 논문 작성 경험
   - 데이터를 기반으로 피시바인 모델 분석하여 중소기업의 해외진출 전략 논문 작성
-   : 제16회 대학(원)생 무역논문대회 장려상 수상
+    제16회 대학(원)생 무역논문대회 장려상 수상
    
 ![슬라이드1](https://user-images.githubusercontent.com/64477858/80914880-7a4b1b80-8d89-11ea-85f9-3e7ce653fa63.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/64477858/80914882-7ddea280-8d89-11ea-91fb-29b635dda268.JPG)
@@ -37,5 +37,5 @@
   
 #### 원활한 커뮤니케이션
 * 컨설팅 피드백으로 실제 사용할 수 있는 캐치프레이즈 제작 요청에 따라 작성
-  - Eco-slow, Eco-Beaty 포장 사용
+  - Eco-slow, Eco-Beauty 캐치프레이즈 포장 사용
 ![image](https://user-images.githubusercontent.com/64477858/80915235-f8102680-8d8b-11ea-9b28-d1e58f8d9f2e.png) 
