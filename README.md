@@ -20,6 +20,7 @@
 ## Skill
 * 논리적인 분석
   - 시장분석을 통한 컨설팅 경험: 전략 캔버스 모델, STP & 4P
+  [카카오_수정.pdf](https://github.com/krkimth/krkimth.github.io/files/4570262/_.pdf)
   - 데이터를 통한 논문 작성 경험: 설문조사와 피시바인 모델 분석
   
 * 원활한 커뮤니케이션
